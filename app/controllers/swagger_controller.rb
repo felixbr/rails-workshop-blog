@@ -13,7 +13,6 @@ class SwaggerController < ApplicationController
   end
 
   SWAGGERED_CLASSES = [
-    Api::PostsController,
     self
   ].freeze
 
