@@ -37,3 +37,11 @@ Sample project to get started for part 2 of our rails workshop
   ```
 
   Afterwards open [localhost:3000](http://localhost:3000) in your browser.
+
+6) Run the test suite
+
+  ```bash
+  bundle exec rspec
+  ```
+
+**Tip:** You can specify a file after `rspec` to only run those specs
